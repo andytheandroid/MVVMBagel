@@ -137,7 +137,7 @@ Choose new **File/New/BagelModule** so the below image appears, and enter the mo
 
 * Compile the project, and simply import the App and AppCompatActivity classes where is required like the following 
 
-![image] (https://github.com/andytheandroid/MVVMBagel/blob/master/BagelModuleActivity/importing.png)
+![image](https://github.com/andytheandroid/MVVMBagel/blob/master/BagelModuleActivity/importing.png)
 
 
 
