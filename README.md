@@ -17,10 +17,13 @@ MVVMP is a type of CLEAN architecture, that follows the separation of concerns i
 Doing the above will consume too much time and also is  error prone since you must bind each class through interfaces and dependency injection
 
 
-To use the template the following prerequisites must be met
+To use the template the following libraries must be installed on gradle
 
-- Dagger must be installed alongside its annotation processor in gradle
-- Optionaly you can add a small spread of butterknife to made cleaner code for binding views
+```
+implementation 'com.google.dagger:dagger:2.13' or the most recent version
+annotationProcessor 'com.google.dagger:dagger-compiler:2.13' or the most recent version
+    
+```
 
 
 
