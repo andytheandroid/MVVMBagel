@@ -4,7 +4,7 @@
         name="Bagel Module"
 		minApi="9"
         minBuildApi="14"
-        description="Creates a new module based on CLEAN Architecture using Dependency Injection and an spread of ButterKnife, Dagger and ButterKnife must be installed on gradle settings in order to use this module">
+        description="Creates a new module based on CLEAN Architecture using Dependency Injection and an optional spread of ButterKnife, Dagger must be installed on gradle settings in order to use this module">
 	<category value="BagelModule" />
 	<formfactor value="Mobile" />
 	<parameter
