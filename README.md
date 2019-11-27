@@ -133,6 +133,20 @@ public class BaseActivity extends AppCompatActivity {
 * Extract the BagelModuleActivity Folder
 * Copy the folder on the following route: **android-studio/plugins/android/lib/templates/activities**
 * If android studio is open close and restart it
+* With android studio opened do the following:
+
+
+Choose new **File/New/BagelModule** so the below image appears, and enter the module and folder names, optionally you can add a activity layout file and set as a launcher activity
+![image](https://github.com/andytheandroid/MVVMBagel/blob/master/BagelModuleActivity/newModule.png)
+
+* After that the following files will be created
+![image](https://github.com/andytheandroid/MVVMBagel/blob/master/BagelModuleActivity/addFIles.png)
+
+* Compile the project, and simply import the App and AppCompatActivity classes where is required like the following 
+
+![image] https://github.com/andytheandroid/MVVMBagel/blob/master/BagelModuleActivity/importing.png
+
+
 
 
 
