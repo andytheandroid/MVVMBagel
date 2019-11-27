@@ -119,14 +119,7 @@ class AppModule {
 
 ```
 
-* BaseActivity.java
-```
-import androidx.appcompat.app.AppCompatActivity;
 
-public class BaseActivity extends AppCompatActivity {
-
-}
-```
 ## Using the template
 
 * Clone or download the repository
