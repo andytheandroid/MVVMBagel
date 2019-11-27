@@ -7,7 +7,7 @@ import android.content.Context;
 import javax.inject.Inject;
 
 
-public class ${className}Activity extends BaseActivity implements ${className}Contract.${className}ViewContract  {
+public class ${className}Activity extends AppCompatActivity implements ${className}Contract.${className}ViewContract  {
 
 	
   @Inject
